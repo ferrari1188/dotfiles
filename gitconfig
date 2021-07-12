@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = chi.ferr1188@gmail.com
+	name = chiara ferrari
